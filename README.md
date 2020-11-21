@@ -1,8 +1,8 @@
 # Today I Learned
 
-Learning resources compiled for everything learned everyday some blog posts to books to videos. 
+Learning resources compiled for everything learned everyday some blog posts to books to videos. A collection of concise books, articles, tech talks  and tutorials on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post.
 
-## Progess is always good, no matter how slow it is.
+## "Progess is always good, no matter how slow it is."
 
 ### Books
 ----------
