@@ -29,3 +29,9 @@ Learning resources compiled for everything learned everyday some blog posts to b
 [Best practices to create & organize Terraform code for AWS](https://medium.com/xebia-engineering/best-practices-to-create-organize-terraform-code-for-aws-2f4162525a1a)
 
 [Secure an Amazon EKS Cluster With IAM & RBAC](https://medium.com/swlh/secure-an-amazon-eks-cluster-with-iam-rbac-b78be0cd95c9)
+
+[How to Build Observable Distributed Systems](https://www.youtube.com/watch?v=ACL_YVPD3gw)
+
+[What's the Difference Between DevOps and SRE? (class SRE implements DevOps)](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
+
+[SLIs, SLOs, SLAs, oh my! (class SRE implements DevOps)](https://www.youtube.com/watch?v=tEylFyxbDLE)
