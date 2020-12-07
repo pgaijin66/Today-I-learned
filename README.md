@@ -35,3 +35,5 @@ Learning resources compiled for everything learned everyday some blog posts to b
 [What's the Difference Between DevOps and SRE? (class SRE implements DevOps)](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
 
 [SLIs, SLOs, SLAs, oh my! (class SRE implements DevOps)](https://www.youtube.com/watch?v=tEylFyxbDLE)
+
+[7 Habits of Highly Successful Site Reliability Engineers](https://blog.newrelic.com/technology/site-reliability-engineer-sre-habits/)
